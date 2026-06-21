@@ -1,0 +1,33 @@
+name: env-xenium-course
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - h5py
+  - tqdm
+  - jupyterlab
+  - ipywidgets
+  - ipykernel
+  - python-igraph
+  - leidenalg
+  - scanpy>=1.10
+  - anndata>=0.10
+  - squidpy>=1.6
+  - scikit-image
+  - pip:
+      # harmonypy 0.0.9 is the NumPy build used by sc.external.pp.harmony_integrate;
+      # newer releases (>=0.0.10) pull in torch and fail on CPU-only machines.
+      - harmonypy==0.0.9
+      # optional, referenced in the method notes for production-grade analyses:
+      - celltypist
+      - decoupler
+      - gseapy

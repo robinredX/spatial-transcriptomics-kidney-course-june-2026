@@ -1,0 +1,18 @@
+celltype,markers
+Podocyte (POD),NPHS2;PODXL;WT1
+Parietal epithelial (PEC),CLDN1;VCAM1;CFH;ALDH1A2
+Proximal tubule (PT),LRP2;CUBN;SLC5A12;SLC22A8
+Injured/adaptive PT,HAVCR1;VCAM1
+Thin limb (DTL/ATL),AQP1;CLDN1
+Thick ascending limb (TAL),UMOD;SLC12A1
+Distal convoluted tubule (DCT),SLC12A3;CALB1
+Connecting tubule / Principal (CNT/PC),AQP2;GATA3;CALB1
+Intercalated (IC),SLC4A1;SLC26A4;ATP6V0D2;KIT
+Endothelial (EC),PECAM1;FLT1;EMCN;KDR;PLVAP
+Mesangial / VSM / Pericyte,PDGFRB;ACTA2;REN;GATA3
+Fibroblast (FIB),COL1A1;LUM;C7;COL3A1
+Immune (general),PTPRC
+T cell,CD3D;CD3E;CD8A;IL7R;CCL5
+B / Plasma,MS4A1;CD79A;MZB1
+Myeloid / Macrophage,LYZ;ITGAM;CD14;FCGR3A;C1QB;MRC1
+NK,NKG7;GNLY;KLRD1
