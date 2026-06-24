@@ -1,8 +1,4 @@
-"""Shared helpers for the ANCA-GN Xenium kidney course.
-
-Students receive only the raw Xenium output folder for slide 0011695 plus this
-repo (which ships ``data/sample_bounding_boxes.csv`` and ``data/marker_genes.csv``).
-These helpers read the raw slide, split it into the 8 tissue samples by their
+"""These helpers read the raw slide, split it into the 8 tissue samples by their
 bounding boxes, and load the Lake KPMP single-cell reference.
 """
 import os
