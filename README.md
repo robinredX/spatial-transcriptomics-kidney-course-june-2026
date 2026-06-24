@@ -1,9 +1,7 @@
-# Spatial transcriptomics of kidney: a Xenium glomerulonephritis course
+# Spatial transcriptomics of kidney glomerulonephritis with Xenium data
 
 A hands-on course on analysing imaging-based single-cell spatial transcriptomics
-(10x **Xenium**) data, worked end to end on a human kidney biopsy slide with several
-glomerulonephritis samples. One day is face to face; the notebooks are an end-to-end
-reference you can keep working through afterwards.
+(10x **Xenium**) data from glomerulonephritis samples.
 
 Robin Khatri, Institute of Medical Systems Bioinformatics, UKE.
 
