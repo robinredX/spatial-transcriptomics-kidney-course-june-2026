@@ -23,6 +23,10 @@ for classification and integration is the Lake / KPMP kidney atlas (panel-aligne
 
 Data is also available to download from Gene Expression Omnibus (GEO) accession: [GSE294965](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294965).
 
+## Before you start
+Please familiarize yourself with AnnData structure [here](https://anndata.readthedocs.io/en/latest/) and Scanpy API [here](https://scanpy.readthedocs.io/en/latest/index.html).
+
+
 ## Layout
 
 ```
@@ -33,6 +37,9 @@ notebooks/                       worked notebooks with blanks for the exercises
 notebooks_solutions/             the same notebooks with exercises filled in (revealed later)
 slides/                          lecture slides (PDF + sources + figures)
 ```
+
+### Data loading scripts
+Some basic useful scripts for the course such as reading and formatting data are present in scripts/course_utils.py 
 
 ## Notebooks
 
