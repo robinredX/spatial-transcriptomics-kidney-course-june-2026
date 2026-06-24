@@ -21,6 +21,8 @@ into the 8 samples by the bounding boxes in `data/sample_bounding_boxes.csv` (co
 in microns; see `scripts/course_utils.py::assign_samples`). The single-cell **reference**
 for classification and integration is the Lake / KPMP kidney atlas (panel-aligned).
 
+Data is also available to download from Gene Expression Omnibus (GEO) accession: [GSE294965](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294965).
+
 ## Layout
 
 ```
