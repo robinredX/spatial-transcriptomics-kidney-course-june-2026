@@ -50,7 +50,17 @@ results, so it works as a standalone reference.
 
 ```bash
 conda env create -f environment.yml
-conda activate env-xenium-course
+source activate env-xenium-course
+```
+
+### Use it in JupyterLab (kernel)
+
+On a JupyterLab server, register the environment once so it appears as a selectable
+kernel:
+
+```bash
+source activate env-spatial-course
+bash scripts/register_kernel.sh
 ```
 
 Point the helpers at your data if your paths differ:
