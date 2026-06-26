@@ -23,6 +23,8 @@ for classification and integration is the Lake / KPMP kidney atlas (panel-aligne
 
 Data is also available to download from Gene Expression Omnibus (GEO) accession: [GSE294965](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294965).
 
+Data can also be viewed with Xenium Explorer: [Xenium Explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest)
+
 ## Before you start
 Please familiarize yourself with AnnData structure [here](https://anndata.readthedocs.io/en/latest/) and Scanpy API [here](https://scanpy.readthedocs.io/en/latest/index.html).
 
